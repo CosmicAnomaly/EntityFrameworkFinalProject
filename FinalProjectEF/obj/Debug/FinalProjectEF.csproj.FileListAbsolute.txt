@@ -1,0 +1,10 @@
+C:\Users\Scott\Documents\School Work\Spring 2017\dotNET\FinalProjectEF\FinalProjectEF\bin\Debug\FinalProjectEF.exe.config
+C:\Users\Scott\Documents\School Work\Spring 2017\dotNET\FinalProjectEF\FinalProjectEF\bin\Debug\FinalProjectEF.exe
+C:\Users\Scott\Documents\School Work\Spring 2017\dotNET\FinalProjectEF\FinalProjectEF\bin\Debug\FinalProjectEF.pdb
+C:\Users\Scott\Documents\School Work\Spring 2017\dotNET\FinalProjectEF\FinalProjectEF\bin\Debug\EntityFramework.dll
+C:\Users\Scott\Documents\School Work\Spring 2017\dotNET\FinalProjectEF\FinalProjectEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Scott\Documents\School Work\Spring 2017\dotNET\FinalProjectEF\FinalProjectEF\bin\Debug\EntityFramework.xml
+C:\Users\Scott\Documents\School Work\Spring 2017\dotNET\FinalProjectEF\FinalProjectEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Scott\Documents\School Work\Spring 2017\dotNET\FinalProjectEF\FinalProjectEF\obj\Debug\FinalProjectEF.exe
+C:\Users\Scott\Documents\School Work\Spring 2017\dotNET\FinalProjectEF\FinalProjectEF\obj\Debug\FinalProjectEF.pdb
+C:\Users\Scott\Documents\School Work\Spring 2017\dotNET\FinalProjectEF\FinalProjectEF\obj\Debug\FinalProjectEF.csprojResolveAssemblyReference.cache
